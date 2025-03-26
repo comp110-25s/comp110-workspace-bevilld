@@ -51,4 +51,4 @@ def bin_len(words: list[str]) -> dict[int, set[str]]:
     return binned
 
 
-print(bin_len([]))
+print(favorite_color({"Howard": "red", "Chuck": "blue", "Saul": "blue"}))
